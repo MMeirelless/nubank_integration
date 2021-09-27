@@ -1,0 +1,122 @@
+[
+    {
+        "id": "e409e495-4a16-4bad-9ddb-5c447c84fdcb",
+        "__typename": "TransferOutEvent",
+        "title": "Transfer\u00c3\u00aancia enviada",
+        "detail": "Waldisney da Silva - R$ 4.496,90",
+        "postDate": "2021-04-14",
+        "amount": 4496.9,
+        "destinationAccount": {
+            "name": "Waldisney da Silva"
+        }
+    },
+    {
+        "id": "acb9a16b-2a1c-40cc-a20b-0778a4503f12",
+        "__typename": "TransferInEvent",
+        "title": "Transfer\u00c3\u00aancia recebida",
+        "detail": "R$ 1.483,80",
+        "postDate": "2021-04-06",
+        "amount": 1483.8,
+        "originAccount": {
+            "name": "Waldisney da Silva"
+        }
+    },
+    {
+        "id": "46f4165a-355b-4238-8e69-3c4655960651",
+        "__typename": "TransferInEvent",
+        "title": "Transfer\u00c3\u00aancia recebida",
+        "detail": "R$ 2.534,30",
+        "postDate": "2021-04-03",
+        "amount": 2534.3,
+        "originAccount": {
+            "name": "Waldisney da Silva"
+        }
+    },
+    {
+        "id": "6d18bde9-2eae-4375-b37e-d92e3a51e0d7",
+        "__typename": "BillPaymentEvent",
+        "title": "Pagamento da fatura",
+        "detail": "Cart\u00c3\u00a3o Nubank - R$ 1.785,10",
+        "postDate": "2021-03-29",
+        "amount": 1785.1
+    },
+    {
+        "id": "7b5a0161-1c39-4310-a7f7-4e44204a32be",
+        "__typename": "TransferInEvent",
+        "title": "Transfer\u00c3\u00aancia recebida",
+        "detail": "R$ 3.164,20",
+        "postDate": "2021-03-19",
+        "amount": 3164.2,
+        "originAccount": {
+            "name": "Waldisney da Silva"
+        }
+    },
+    {
+        "id": "7fb81299-ad24-465d-b8a3-65a43f26c1d4",
+        "__typename": "TransferInEvent",
+        "title": "Transfer\u00c3\u00aancia recebida",
+        "detail": "R$ 1.340,60",
+        "postDate": "2021-03-06",
+        "amount": 1340.6,
+        "originAccount": {
+            "name": "Waldisney da Silva"
+        }
+    },
+    {
+        "id": "a04ae499-ac2c-45d9-9283-5fb39b798535",
+        "__typename": "TransferInEvent",
+        "title": "Transfer\u00c3\u00aancia recebida",
+        "detail": "R$ 3.429,00",
+        "postDate": "2021-03-02",
+        "amount": 3429.0,
+        "originAccount": {
+            "name": "Waldisney da Silva"
+        }
+    },
+    {
+        "id": "ea4a922c-2d16-4801-8929-919e29e07738",
+        "__typename": "BillPaymentEvent",
+        "title": "Pagamento da fatura",
+        "detail": "Cart\u00c3\u00a3o Nubank - R$ 1.699,70",
+        "postDate": "2021-03-01",
+        "amount": 1699.7
+    },
+    {
+        "id": "a4b93909-93ef-481e-b76d-03b4128458a3",
+        "__typename": "TransferInEvent",
+        "title": "Transfer\u00c3\u00aancia recebida",
+        "detail": "R$ 3.889,10",
+        "postDate": "2021-02-06",
+        "amount": 3889.1,
+        "originAccount": {
+            "name": "Waldisney da Silva"
+        }
+    },
+    {
+        "id": "0a6f61d9-50b0-4cc2-b91c-3f65ea75a2d5",
+        "__typename": "BillPaymentEvent",
+        "title": "Pagamento da fatura",
+        "detail": "Cart\u00c3\u00a3o Nubank - R$ 3.166,30",
+        "postDate": "2021-01-29",
+        "amount": 3166.3
+    },
+    {
+        "id": "82c0d31c-c8ed-4059-8e7b-9c636baea20a",
+        "__typename": "TransferOutEvent",
+        "title": "Transfer\u00c3\u00aancia enviada",
+        "detail": "Waldisney da Silva - R$ 236,10",
+        "postDate": "2021-01-13",
+        "amount": 236.1,
+        "destinationAccount": {
+            "name": "Waldisney da Silva"
+        }
+    },
+    {
+        "id": "a9f96774-37f2-431e-9e6f-a081defacf25",
+        "__typename": "BarcodePaymentEvent",
+        "title": "Pagamento efetuado",
+        "detail": "CONFIDENCE CORRETORA DE CAMBIO S A",
+        "postDate": "2020-12-08",
+        "amount": 4245.1
+    }
+]
